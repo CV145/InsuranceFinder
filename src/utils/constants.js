@@ -1,0 +1,1 @@
+//Define constants like API endpoints and theme colors
